@@ -6,7 +6,7 @@ Contenido informático random.
 
  Iniciamos con el texto de prueba ;)
 
- ```Markdown
+ ``` Markdown
 Syntax highlighted code block
 
 # Título 1
