@@ -1,6 +1,6 @@
-## Bienvenidos a a mi blog personal
+## Bienvenidos a un blog más en la wired ;)
 
-Contaré lo que pueda aprender del mundo Linux :)
+Contenido informático random.
 
 ### Markdown
 
